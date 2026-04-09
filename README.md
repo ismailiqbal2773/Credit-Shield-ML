@@ -1,4 +1,4 @@
-#  Credit Card Fraud Detection (PCA-Transformed Data)
+#  Credit-Shield-ML
 
 ## Project Overview
 This project focuses on identifying fraudulent transactions in a highly imbalanced dataset. The data contains transactions made by European cardholders and has been transformed using **PCA (Principal Component Analysis)** to ensure privacy. This model effectively handles the challenge of finding a "needle in a haystack"—detecting rare fraud cases among thousands of legitimate transactions.
